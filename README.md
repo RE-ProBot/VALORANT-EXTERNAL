@@ -9,6 +9,10 @@ VALORANT EXTERNAL 🌌
 <a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/downloads/lunahax/valorant-external/total?color=00dd00&style=for-the-badge"></a>
 </div>
 
+<h1 id="head" align="center">
+NOW UPDATING!
+</h1>
+
 <h2 id="disclaimer" align="center">
 ⚠️ DISCLAIMER ⚠️
 </h2>
