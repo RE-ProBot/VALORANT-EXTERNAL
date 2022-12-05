@@ -95,25 +95,10 @@ If you would like us to add something please get in contact. Any feedback is app
 
 **GPU:**
 > Game Ready Drivers required
-- Nvidia GTX 10 Series
-- Nvidia RTX 20 Series
-- Nvidia RTX 30 Series
-- AMD RX Series
+- Nvidia GTX 10/20/30/40 Series
 
-### ❌ Incompatible:
+### Notes
 
-**OS:**
-- Windows 10 22H2 / 20H2 or lower
-- Windows 11
-- Linux
-- MacOS
-- Samsung Smart Fridge OS (yes, we tested it)
-
-**GPU:**
-- Nvidia GT Series
-- Nvidia GTX 16 Series
-
-**Others:**
 - Certain Logitech mice may cause issues
 - Certain MSI motherboards seem to cause trouble???
 
