@@ -157,6 +157,12 @@ If you would like us to add something please get in contact. Any feedback is app
 ## <a id="changes"></a>🌟 〢 Changelogs
 
 ```diff
+v1.2.2 | 05/12/2022
++ Fixed invalid links
++ Updated header
++ Code improvements
+- Bugfixes
+
 v1.2 | 16/11/2022
 + Added Spinbot
 + Added Spinbot speed
