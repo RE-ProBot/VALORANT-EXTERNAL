@@ -27,12 +27,14 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 
 ---
 
-## <a id="toc"></a>🌐 〢 Table of Contents
-- [🌌・Features](#features)
-- [📎・Compability](#com)
-- [📂・Installation](#installation)
-- [⚙️・Troubleshooting](#ts)
-- [🌟・Changelogs](#changes)
+<h2 align="center">
+<a href="#features">Features</a>・
+<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/releases">Download</a>・
+<a href="#com">Compability</a>・
+<a href="#installation">Installation</a>・
+<a href="#ts">Troubleshooting</a>・
+<a href="#changes">Changelogs</a>
+</h2>
 
 ---
 
