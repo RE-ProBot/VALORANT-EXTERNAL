@@ -95,7 +95,7 @@ If you would like us to add something please get in contact. Any feedback is app
 
 **GPU:**
 > Game Ready Drivers required
-- Nvidia GTX 10/20/30/40 Series
+- Nvidia GTX/RTX 10/20/30/40 Series
 
 ### Notes
 
