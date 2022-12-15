@@ -24,9 +24,9 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 <h2 align="center">
 <a href="#features">Features</a>・
 <a href="https://github.com/Lunahax/VALORANT-EXTERNAL/releases">Download</a>・
-<a href="#com">Compability</a>・
-<a href="#installation">Installation</a>・
-<a href="#ts">Troubleshooting</a>・
+<a href="https://github.com/Lunahax/TS#1a">Compability</a>・
+<a href="https://github.com/Lunahax/TS#1b">Installation</a>・
+<a href="https://github.com/Lunahax/TS#1c">Troubleshooting</a>・
 <a href="#changes">Changelogs</a>
 </h2>
 
