@@ -1,9 +1,3 @@
-<h2 id="head" align="center">
-UPDATE 1.3 IN WORK
-</h2>
-
----
-
 <h1 id="head" align="center">
 VALORANT EXTERNAL 🌌
 </h1>
@@ -81,63 +75,20 @@ https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-
 - Custom Spinbot Speed
 ```
 
+**Upcoming**
+```sh-session
+- RGB as a color option
+- Wireframes
+- Obstacle opacity
+```
+
 If you would like us to add something please get in contact. Any feedback is appreciated.
 
 ---
 
-## <a id="com"></a>📎 〢 Compability
-> Based on test results
+## <a id="com"></a>⚠️ 〢 Information 
 
-### ✅ Compatible:
-
-**OS:**
-- Windows 10 21H1 / 21H2
-
-**GPU:**
-> Game Ready Drivers required
-- Nvidia GTX/RTX 10/20/30/40 Series
-
-### Notes
-
-- Certain Logitech mice may cause issues
-- Certain MSI motherboards seem to cause trouble???
-
----
-
-## <a id="installation"></a>📂 〢 Installation
-
-1. Under the [Releases](https://github.com/Lunahax/VALORANT-EXTERNAL/releases) tab, check for the latest version.
-
-2. Once you've found the latest version, click on it.
-
-3. Read the release notes, there might be important information.
-
-4. Now check for the attached files. You should find 3-4 files, 2 of them named `Source Code` - These are the files you will **NOT** need to download. Instead, look for a file named `VALORANT-EXTERNAL.zip` or `VALORANT-EXTERNAL.rar`.
-
-5. Click on the files named `VALORANT-EXTERNAL` and they should download right away.
-
-6. If any `.zip` or `.rar` files were attached, extract these files in the same folder where you can find your `Riot Games` folder (do not extract into the Riot Games folder!).
-
-7. Launch VALORANT and head into the Training Range.
-
-8. Disable Rawinputbuffer and set window mode to Windowed Fullscreen.
-
-9. Launch the extracted `cheat-menu.exe`.
-
-10. Adjust your settings and hit save to start injection.
-
-11. Have fun!
-
----
-
-## <a id="ts"></a>⚙️ 〢 Troubleshooting
-
-> Getting an error? Try some of the methods below 
-
-- Check if your system is [compatible](#com)
-- Make sure you have extracted all files in the correct location 
-- Try to run the attached `cheat-menu.exe` as administrator 
-- Make sure your game is running in windowed fullscreen
+Compability, Installation and Troubleshooting has been merged with other projects and was moved to [https://github.com/Lunahax/TS](https://github.com/Lunahax/TS#vex)
 
 ---
 
