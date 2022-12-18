@@ -70,7 +70,6 @@ https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-
 
 **Others**
 ```sh-session
-- Insta-Lock Agent
 - Spinbot
 - Custom Spinbot Speed
 ```
