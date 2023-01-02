@@ -22,7 +22,7 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 ---
 
 <h2 align="center">
-<a href="#features">Features</a>・<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/releases">Download</a>・<a href="https://github.com/Lunahax/TS#1a">Compability</a>・<a href="https://github.com/Lunahax/TS#1b">Installation</a>・<a href="https://github.com/Lunahax/TS#1c">Troubleshooting</a>・<a href="#changes">Changelogs</a>
+<a href="#features">Features</a>・<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/releases">Download</a>・<a href="#ins">Installation</a>・<a href="#changes">Changelogs</a>
 </h2>
 
 ---
@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-
 
 ---
 
-<h3 align="center"><a href="https://discord.gg/cQCkK35FT2">https://discord.gg/cQCkK35FT2</a></h3>
+<h3 align="center"><a href="https://discord.gg/RHqdAzZpVH">https://discord.gg/RHqdAzZpVH</a></h3>
 <p align="center">Discord Server for Questions, Help, Support, Contact, etc.</p>
 
 ---
@@ -80,15 +80,35 @@ If you would like us to add something please get in contact. Any feedback is app
 
 ---
 
-## <a id="com"></a>⚠️ 〢 Information 
+## <a id="ins"></a>⚙️ 〢 Installation
 
-Compability, Installation and Troubleshooting has been merged with other projects and was moved to [https://github.com/Lunahax/TS](https://github.com/Lunahax/TS#vex)
+1. Make sure the `.zip` shares a drive with your game
+2. Extract the `.zip` file
+3. Run `cheat-menu.exe` as admin
+4. Enjoy
+
+### Useful Information
+
+- Injects automatically; just wait
+- Settings update in realtime
+- Public software; Project won't last long
+
+### Compability
+
+- Windows 10 (any)
+- Windows 11 (any)
+- Any GPU
 
 ---
 
 ## <a id="changes"></a>🌟 〢 Changelogs
 
 ```diff
+v1.3 | 02/01/2023
++ Renewed UI
+- Removed functions
+- Bigfixes
+
 v1.2.2 | 05/12/2022
 + Fixed invalid links
 + Updated header
