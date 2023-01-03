@@ -22,7 +22,7 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 ---
 
 <h2 align="center">
-<a href="#features">Features</a>・<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/releases">Download</a>・<a href="#ins">Installation</a>・<a href="#changes">Changelogs</a>
+<a href="#dc">Discord</a>・<a href="#features">Features</a>・<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/releases">Download</a>・<a href="#ins">Installation</a>・<a href="#changes">Changelogs</a>
 </h2>
 
 ---
@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-
 
 ---
 
-<h3 align="center"><a href="https://discord.gg/RHqdAzZpVH">https://discord.gg/RHqdAzZpVH</a></h3>
+<h3 id="dc" align="center"><a href="https://discord.gg/RHqdAzZpVH">https://discord.gg/RHqdAzZpVH</a></h3>
 <p align="center">Discord Server for Questions, Help, Support, Contact, etc.</p>
 
 ---
