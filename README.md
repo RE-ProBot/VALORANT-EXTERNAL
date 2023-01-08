@@ -28,11 +28,7 @@ VALORANT-EXTERNAL was made for educational purposes and personal use. By using o
 
 ---
 
-
-
 https://user-images.githubusercontent.com/89605624/211209615-536c7657-6be3-4d63-9dee-4f79c7eb54ad.mp4
-
-
 
 ---
 
