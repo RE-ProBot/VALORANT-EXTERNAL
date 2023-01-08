@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/89605624/198874573-965faa3f-9c5d-44fb-
 
 ---
 
-<h3 id="dc" align="center"><a href="https://discord.gg/RHqdAzZpVH">https://discord.gg/RHqdAzZpVH</a></h3>
+<h3 id="dc" align="center"><a href="https://discord.gg/rtASTKcgAu">https://discord.gg/rtASTKcgAu</a></h3>
 <p align="center">Discord Server for Questions, Help, Support, Contact, etc.</p>
 
 ---
