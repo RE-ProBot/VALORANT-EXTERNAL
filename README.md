@@ -25,8 +25,10 @@ This project was made for educational purposes and personal use. By using our se
 
 ---
 
-<h3 id="discord" align="center"><a href="https://discord.gg/rtASTKcgAu">https://discord.gg/rtASTKcgAu</a></h3>
-<p align="center">Discord Server for Questions, Help, Support, Contact, etc.</p>
+## <a id="discord"></a>👾 〢 Discord
+
+### https://discord.gg/rtASTKcgAu
+Discord Server for Questions, Help, Support, Contact, etc.
 
 ---
 
