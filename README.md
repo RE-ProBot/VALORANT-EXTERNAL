@@ -34,6 +34,8 @@ Discord Server for Questions, Help, Support, Contact, etc.
 
 ## <a id="features"></a>🌌 〢 Features
 
+> Some of these features are not available in the public version.
+
 **Aimbot**
 ```sh-session
 - Silent
@@ -88,13 +90,17 @@ Read everything carefully before you click anything.
 - Injects automatically
 - Settings update in realtime
 - Overlay will only appear with ESP or "Aimbot FOV Circle" enabled
-- Public project; It will not last long
+- Functionality won't last long as it is a public version
+- Mouse & Keyboard must be connected to USB ports [1] & [2]
+- If the overlay appears on the wrong screen, make sure to define your main monitor
+- Scroll wheel may not work on some mice
 
 ### Compability
 
 - Windows 10 (any)
 - Windows 11 (any)
 - Any GPU
+- Not compatible with Logitech mice
 
 ---
 
