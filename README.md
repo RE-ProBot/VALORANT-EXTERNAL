@@ -90,7 +90,6 @@ Read everything carefully before you click anything.
 - Injects automatically
 - Settings update in realtime
 - Overlay will only appear with ESP or "Aimbot FOV Circle" enabled
-- Functionality won't last long as it is a public version
 - Mouse & Keyboard must be connected to USB ports [1] & [2]
 - If the overlay appears on the wrong screen, make sure to define your main monitor
 - Scroll wheel may not work on some mice
