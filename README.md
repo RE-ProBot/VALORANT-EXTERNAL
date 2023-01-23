@@ -65,6 +65,7 @@ Discord Server for Questions, Help, Support, Contact, etc.
 ```sh-session
 - Spinbot
 - Custom Spinbot Speed
+- Custom Keys
 ```
 
 ---
