@@ -1,7 +1,3 @@
-https://user-images.githubusercontent.com/89605624/211209615-536c7657-6be3-4d63-9dee-4f79c7eb54ad.mp4
-
----
-
 # VALORANT EXTERNAL 🌌
 
 <div align="left">
@@ -9,6 +5,8 @@ https://user-images.githubusercontent.com/89605624/211209615-536c7657-6be3-4d63-
 <a href="https://discord.gg/rtASTKcgAu"><img src="https://user-images.githubusercontent.com/89605624/210242064-bb10e448-f53b-40b9-b413-aae180460595.png" width="5" height="1"/></a>
 <a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/downloads/lunahax/valorant-external/total?color=00dd00&style=for-the-badge"></a>
 </div>
+
+---
 
 ## ⚠️ 〢 DISCLAIMER
 
@@ -19,6 +17,7 @@ This project was made for educational purposes and personal use. By using our se
 ## 🌐 〢 Index
 - [👾・Discord](#discord)
 - [🌌・Features](#features)
+- [📌・Showcase](#showcase)
 - [📁・Download](#download)
 - [⚙️・Installation](#installation)
 - [🌟・Changelogs](#changelogs)
@@ -28,7 +27,7 @@ This project was made for educational purposes and personal use. By using our se
 ## <a id="discord"></a>👾 〢 Discord
 
 ### https://discord.gg/rtASTKcgAu
-Discord Server for Questions, Help, Support, Contact, etc.
+Discord Server for Questions, Support, Premium versions and more!
 
 ---
 
@@ -66,7 +65,15 @@ Discord Server for Questions, Help, Support, Contact, etc.
 - Spinbot
 - Custom Spinbot Speed
 - Custom Keys
+- Wireframe
+- Quicklaunch spoofer
 ```
+
+---
+
+<a id="showcase"></a>📌 〢 Showcase
+
+https://user-images.githubusercontent.com/89605624/211209615-536c7657-6be3-4d63-9dee-4f79c7eb54ad.mp4
 
 ---
 
@@ -84,7 +91,7 @@ Read everything carefully before you click anything.
 
 1. Make sure the `.zip` shares a drive with your game
 2. Extract the `.zip` file
-3. Run `cheat-menu.exe` as admin
+3. Run `cheat-menu.exe` as admin (recommended)
 
 ### Useful Information
 
@@ -94,6 +101,7 @@ Read everything carefully before you click anything.
 - Mouse & Keyboard must be connected to USB ports [1] & [2]
 - If the overlay appears on the wrong screen, make sure to define your main monitor
 - Scroll wheel may not work on some mice
+- 1080p (16:9) or 1440p (16:9) required
 
 ### Compability
 
@@ -101,12 +109,16 @@ Read everything carefully before you click anything.
 - Windows 11 (any)
 - Any GPU
 - Not compatible with Logitech mice
+- Not compatible with MSI motherboards
 
 ---
 
 ## <a id="changelogs"></a>🌟 〢 Changelogs
 
 ```diff
+v1.5 | 26/01/2023
+- Bugfixes
+
 v1.4 | 08/01/2023
 + New drivers
 + New aimbot technology
