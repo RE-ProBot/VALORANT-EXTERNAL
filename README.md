@@ -2,7 +2,7 @@
 
 <div align="left">
 <a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/stars/lunahax/valorant-external?color=00dd00&style=for-the-badge"></a>
-<a href="https://discord.gg/rtASTKcgAu"><img src="https://user-images.githubusercontent.com/89605624/210242064-bb10e448-f53b-40b9-b413-aae180460595.png" width="5" height="1"/></a>
+<a href="https://discord.gg/Cu4vuPgU45"><img src="https://user-images.githubusercontent.com/89605624/210242064-bb10e448-f53b-40b9-b413-aae180460595.png" width="5" height="1"/></a>
 <a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/downloads/lunahax/valorant-external/total?color=00dd00&style=for-the-badge"></a>
 </div>
 
@@ -26,7 +26,7 @@ This project was made for educational purposes and personal use. By using our se
 
 ## <a id="discord"></a>👾 〢 Discord
 
-### https://discord.gg/rtASTKcgAu
+### https://discord.gg/Cu4vuPgU45
 Discord Server for Questions, Support, Premium versions and more!
 
 ---
@@ -40,31 +40,38 @@ Discord Server for Questions, Support, Premium versions and more!
 - Silent
 - Unsilent
 - Smooth
-- FOV Circle
-- Custom Circle Size
+- Correction
+- Assist
+- Targets
+- Custom FOV Shape
+- Custom FOV Size
 - Custom Accuracy 
 - Custom Smoothness
-- Trigger Keys
+- Custom Keybinds
 - No Recoil
 ```
 
 **ESP**
 ```sh-session
 - Boxes
+- Corners
 - Tracers
 - HP Bars
 - Chams
 - Skeletons
 - Glow
 - Custom Glow Intensity
+- Custom Colors
+- RGB
 - Filter Targets
 ```
 
 **Others**
 ```sh-session
+- Hide on recording / stream
+- Unlock inventory / skinchanger
 - Spinbot
 - Custom Spinbot Speed
-- Custom Keys
 - Wireframe
 - Quicklaunch spoofer
 ```
@@ -80,6 +87,7 @@ https://user-images.githubusercontent.com/89605624/215790136-941a590c-43a5-4d99-
 ## <a id="download"></a>📁 〢 Download
 
 Read everything carefully before you click anything.
+> Current releases are not working! [Learn more](https://discord.gg/Cu4vuPgU45)
 
 1. Check the available versions [here](https://github.com/Lunahax/VALORANT-EXTERNAL/releases)
 2. Click on the latest version
