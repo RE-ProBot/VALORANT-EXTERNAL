@@ -1,9 +1,9 @@
 # VALORANT EXTERNAL 🌌
 
 <div align="left">
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/stars/lunahax/valorant-external?color=00dd00&style=for-the-badge"></a>
+<a href="https://github.com/Lynzed"><img src="https://img.shields.io/github/stars/lynzed/valorant-external?color=00dd00&style=for-the-badge"></a>
 <a href="https://discord.gg/Cu4vuPgU45"><img src="https://user-images.githubusercontent.com/89605624/210242064-bb10e448-f53b-40b9-b413-aae180460595.png" width="5" height="1"/></a>
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/github/downloads/lunahax/valorant-external/total?color=00dd00&style=for-the-badge"></a>
+<a href="https://github.com/Lynzed"><img src="https://img.shields.io/github/downloads/lynzed/valorant-external/total?color=00dd00&style=for-the-badge"></a>
 </div>
 
 ---
@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/89605624/215790136-941a590c-43a5-4d99-
 Read everything carefully before you click anything.
 > Current releases are not working! [Learn more](https://discord.gg/Cu4vuPgU45)
 
-1. Check the available versions [here](https://github.com/Lunahax/VALORANT-EXTERNAL/releases)
+1. Check the available versions [here](https://github.com/Lynzed/VALORANT-EXTERNAL/releases)
 2. Click on the latest version
 3. Download the attached `valorant-external.zip` file by clicking on it
 
@@ -179,8 +179,8 @@ Back to the top
 ---
 
 <h2 align="center">
-Copyright © 2022 Lunahax<br>
-<a href="https://github.com/Lunahax/VALORANT-EXTERNAL/blob/main/LICENSE.md">
+Copyright © 2023 Lynzed<br>
+<a href="https://github.com/Lynzed/VALORANT-EXTERNAL/blob/main/LICENSE.md">
 LICENSE
 </a>
 </h2>
