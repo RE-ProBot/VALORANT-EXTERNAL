@@ -8,7 +8,7 @@
 
 ---
 
-## ⚠️ 〢 WARNING!
+## <a id="warning"></a>⚠️ 〢 WARNING!
 
 **The tag "[valorant-cheat](https://github.com/topics/valorant-cheat?o=desc&s=stars)" and many more on GitHub Topics are currently flooded with malware and similar! Do not fall for those traps!**<br>If the repository you visit includes a download option like displayed in the examples below, there's a high probability that it's malware! GitHub has not taken action against most of these repositories yet so please be careful!
 
@@ -31,7 +31,7 @@ Ex. 3:
 
 ---
 
-## ⚠️ 〢 DISCLAIMER
+## <a id="disclaimer"></a>⚠️ 〢 DISCLAIMER
 
 This project was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
 
