@@ -8,6 +8,29 @@
 
 ---
 
+## ⚠️ 〢 WARNING!
+
+**The tag "[valorant-cheat](https://github.com/topics/valorant-cheat?o=desc&s=stars)" and many more on GitHub Topics are currently flooded with malware and similar! Do not fall for those traps!**<br>If the repository you visit includes a download option like displayed in the examples below, there's a high probability that it's malware! GitHub has not taken action against most of these repositories yet so please be careful!
+
+### Examples (without real links):
+
+Ex. 1:
+| [Download](https://github.com/Lynzed/VALORANT-EXTERNAL) |
+| --- |
+| Password: `[something here]` |
+
+Ex. 2:
+| [Download](https://github.com/Lynzed/VALORANT-EXTERNAL) |
+| --- |
+
+Ex. 3:
+- password: [something here]
+- [download](https://github.com/Lynzed/VALORANT-EXTERNAL)
+
+> Never trust files you find online (not even ours!), never give passwords or similar information to third parties and check what you download! Always be careful!
+
+---
+
 ## ⚠️ 〢 DISCLAIMER
 
 This project was made for educational purposes and personal use. By using our services you agree that you hold responsibility, liability and accountability of any consequences caused by your actions.
@@ -17,7 +40,6 @@ This project was made for educational purposes and personal use. By using our se
 ## 🌐 〢 Index
 - [👾・Discord](#discord)
 - [🌌・Features](#features)
-- [📌・Showcase](#showcase)
 - [📁・Download](#download)
 - [⚙️・Installation](#installation)
 - [🌟・Changelogs](#changelogs)
@@ -28,6 +50,12 @@ This project was made for educational purposes and personal use. By using our se
 
 ### https://discord.gg/Cu4vuPgU45
 Discord Server for Questions, Support, Premium versions and more!
+
+---
+
+## <a id="showcase"></a>📌 〢 Showcase
+
+https://user-images.githubusercontent.com/89605624/215790136-941a590c-43a5-4d99-868f-ecd1560d0940.mp4
 
 ---
 
@@ -78,16 +106,10 @@ Discord Server for Questions, Support, Premium versions and more!
 
 ---
 
-## <a id="showcase"></a>📌 〢 Showcase
-
-https://user-images.githubusercontent.com/89605624/215790136-941a590c-43a5-4d99-868f-ecd1560d0940.mp4
-
----
-
 ## <a id="download"></a>📁 〢 Download
 
 Read everything carefully before you click anything.
-> Current releases are not working! [Learn more](https://discord.gg/Cu4vuPgU45)
+> ❌ Current free releases are not working! [Learn more](https://discord.gg/Cu4vuPgU45)
 
 1. Check the available versions [here](https://github.com/Lynzed/VALORANT-EXTERNAL/releases)
 2. Click on the latest version
