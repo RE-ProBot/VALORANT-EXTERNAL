@@ -71,12 +71,10 @@ https://user-images.githubusercontent.com/89605624/215790136-941a590c-43a5-4d99-
 - Correction
 - Assist
 - Targets
-- Custom FOV Shape
-- Custom FOV Size
-- Custom Accuracy 
-- Custom Smoothness
-- Custom Keybinds
-- No Recoil
+- Adjustable FOV
+- Adjustable Accuracy
+- Adjustable Smoothness
+- Adjustable No Recoil
 ```
 
 **ESP**
@@ -86,22 +84,15 @@ https://user-images.githubusercontent.com/89605624/215790136-941a590c-43a5-4d99-
 - Tracers
 - HP Bars
 - Chams
-- Skeletons
-- Glow
-- Custom Glow Intensity
-- Custom Colors
 - RGB
 - Filter Targets
 ```
 
 **Others**
 ```sh-session
-- Hide on recording / stream
 - Unlock inventory / skinchanger
 - Spinbot
-- Custom Spinbot Speed
 - Wireframe
-- Quicklaunch spoofer
 ```
 
 ---
