@@ -1,7 +1,7 @@
 # VALORANT EXTERNAL 🌌
 
 <div align="left">
-<a href="https://github.com/Lynzed"><img src="https://img.shields.io/github/stars/lynzed/valorant-external?color=00dd00&style=for-the-badge"></a>
+<a href="https://github.com/RE-ProBot"><img src="https://img.shields.io/github/stars/lynzed/valorant-external?color=00dd00&style=for-the-badge"></a>
 <a href="https://discord.gg/Cu4vuPgU45"><img src="https://user-images.githubusercontent.com/89605624/210242064-bb10e448-f53b-40b9-b413-aae180460595.png" width="5" height="1"/></a>
 <a href="https://github.com/Lynzed"><img src="https://img.shields.io/github/downloads/lynzed/valorant-external/total?color=00dd00&style=for-the-badge"></a>
 </div>
